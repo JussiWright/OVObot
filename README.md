@@ -15,7 +15,7 @@ Käyttö ei edellytä ohjelmointi tai tietotekniikkataitoja. OVObot on Suomes
 Lisätietoa: Jussi Wright, 040-501 8637,  jussi@ovobots.fi
 
 
-Oheisesta linkistä löytyy [Demo video OVObotista](https://youtu.be/mZVHh3lhfqE)
+Oheisesta linkistä löytyy [demo video OVObotista](https://youtu.be/mZVHh3lhfqE)
 
 ![OVObot](/images/OVObot_Yellow_2.png)
 ![OVObot](/images/OVObot_Yellow_3.png)
